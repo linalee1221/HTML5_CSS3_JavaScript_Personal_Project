@@ -1,0 +1,26 @@
+/* <!-- 헤더 --> */
+#main-header { 
+    position: fixed;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    width: 950px;
+    top: 0;
+    text-align: center;
+    text-shadow: 5px 4px 3px rgba(128, 128, 128, 0.561);
+   
+ }
+.master-title { 
+    background-color: rgb(255, 255, 255);
+    font-size: 30px; 
+    font-style: italic;
+    text-shadow: 5px 4px 3px rgba(128, 128, 128, 0.561);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.master-description {
+    font-size: 15px; font-weight: 500;
+    color: #383838;
+}
+
